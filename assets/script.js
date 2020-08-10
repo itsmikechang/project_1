@@ -70,7 +70,7 @@ $(document).ready(function () {
     $.ajax({
       url: queryUrl,
       headers: {
-        'Authorization': 'Bearer 2A_26XM2MNsqPRYFIkuDPx-YUSHRSfNuOmu_lc18NrHepjcxUtyQ_UKHNXWiYwTNos-d0tdf9rvLeqc2MbzhqWTegYFcZGCNnybE1ntyDLxOx22UGjo65k5HIV0aX3Yx',
+        'Authorization': 'Bearer 4WDM340jIWpOIUG2NKZQvEJjieQRxbbb1Z_cxkBnAv1pRr2YwzsqybdBeWtXBsmTtHoSNPHaix35WkDt-fLIVWXoWOjx8lNnwuWttnyuvYjGvofbQQyGvDp9Bj4WX3Yx',
       },
       method: 'GET',
       dataType: 'json',
